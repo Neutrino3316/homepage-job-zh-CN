@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "胡中林求职简历"
+title                    : "胡中林的个人网站"
 title_separator          : "-"
-name                     : &name "胡中林"
-description              : &description "personal description"
+name                     : &name "名字"
+description              : &description "我的个人网站"
 url                      : # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
